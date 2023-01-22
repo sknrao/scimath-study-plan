@@ -48,7 +48,12 @@ Topics: Limits and Continuity, The Derivative, 6 functions, rules and theorems, 
 6. Excellent Books:
 	
 	a. Calculus Made Easy - Thompson
+	
 	b. Calculus by Spivak
+	
 	c. Calculus by Gilbert Strang
+	
 	d. All the mathematics you missed [But need to know for graduate school] by Thomas Garrity
+	
 	e. Elementary Differential Equations and Boundary Value Problems by Boyce et. al.,
+	
